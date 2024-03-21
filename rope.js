@@ -22,7 +22,7 @@ class rope{
 		//ELIGE LA OPCIÓN CORRECTA PARA RENDERIZAR UNA LÍNEA ENTRE LOS DOS CUERPOS
 
 		// line(pointA.x, pointA.y, pointB.y);
-		// line(pointA.x, pointA.y, pointB.x + this.offsetX, pointB.y);
+		 line(pointA.x, pointA.y, pointB.x + this.offsetX, pointB.y);
 		// line(pointA.x, pointA.y, pointB.x + this.offsetX);
 		// line(pointA.x, pointA.y + this.offsetX,, pointB.x, pointB.y);
 	}
